@@ -5,7 +5,7 @@ Approved November 1, 2026. Apply across Game Tables, Music, and Building Materia
 ## Single product
 - One overall 3:2 image frame.
 - Product title and description underneath.
-- Write complete copy to fit a three-line description area, checking phone and desktop widths.
+- Write complete copy that visibly fills three lines, checking phone and desktop widths. A blank reserved third line does not meet the standard.
 
 ## Paired products
 - One overall 3:2 image frame, split into equal 50/50 panels with a narrow padded gap.
@@ -17,6 +17,6 @@ Approved November 1, 2026. Apply across Game Tables, Music, and Building Materia
 ## Shared rules
 - Preserve image proportions and existing visual style.
 - Never truncate product descriptions or use ellipses to make them fit; edit copy instead.
-- Reserve consistent space for three description lines; check the narrowest supported phone width.
+- Descriptions should visibly occupy three lines, with no clipping; check the narrowest supported phone width.
 - Keep page introduction copy within two lines.
 - Review paired title alignment, spacing, image framing, and all three material tabs before publishing.
